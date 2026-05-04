@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm Denis Lylov
 
-<!--
-**denistred/denistred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineering student at Belgorod State Technological University. My work focuses on bridging the gap between robust Backend systems and Computer Vision (CV) solutions.
 
-Here are some ideas to get you started:
+I specialize in building high-performance APIs and implementing machine learning models for real-world industrial and analytical tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Stack
+
+* Programming Languages
+  * Python (Primary)
+  * C++
+  * SQL
+* Backend Development
+  * FastAPI
+  * Django
+  * REST API Design
+* Computer Vision & ML
+  * OpenCV
+  * YOLO (Object Detection & Tracking)
+  * Custom Neural Network Architectures
+* Databases & Tools
+  * PostgreSQL
+  * InfluxDB (Time-series data)
+  * Docker
+  * Git
+  * Linux
+
+## Key Achievements
+* Prize winner of the RuCode Championship (All-Russian algorithmic programming festival).
